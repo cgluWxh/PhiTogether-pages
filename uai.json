@@ -1,0 +1,146 @@
+{
+    "uai": {
+        "7888": {
+            "userAdditionInfo": {
+                "isPTDeveloper": true,
+                "nameplates": [
+                    [
+                        "is the best",
+                        "yellowgreen"
+                    ],
+                    [
+                        "Developer",
+                        "deepskyblue"
+                    ],
+                    [
+                        "@Team PhiTogether",
+                        "lightseagreen"
+                    ],
+                    [
+                        "PhiZone Dev",
+                        "#4b0082"
+                    ]
+                ],
+                "pendants": []
+            },
+            "script": "shared.game.ptmain.gameConfig.customChartServer='ptc.realtvop.top/copyrighted';"
+        },
+        "3526": {
+            "userAdditionInfo": {
+                "isPTDeveloper": true,
+                "nameplates": [
+                    [
+                        "奥拓熊",
+                        "red"
+                    ],
+                    [
+                        "@Team PhiTogether",
+                        "lightseagreen"
+                    ]
+                ],
+                "pendants": []
+            }
+        },
+        "46": {
+            "userAdditionInfo": {
+                "isPTDeveloper": true,
+                "nameplates": [
+                    [
+                        "@PhiZone",
+                        "#4b0082"
+                    ],
+                    [
+                        "@TeamPhigrim",
+                        "lightseagreen"
+                    ],
+                    [
+                        "@Team PhiTogether",
+                        "lightseagreen"
+                    ]
+                ],
+                "pendants": []
+            }
+        },
+        "1402": {
+            "userAdditionInfo": {
+                "isPTDeveloper": true,
+                "nameplates": [
+                    [
+                        "Developer",
+                        "deepskyblue"
+                    ],
+                    [
+                        "@Team PhiTogether",
+                        "lightseagreen"
+                    ]
+                ],
+                "pendants": []
+            },
+            "script": "shared.game.ptmain.gameConfig.customChartServer='ptc.realtvop.top/copyrighted';"
+        },
+        "251": {
+            "userAdditionInfo": {
+                "isPTDeveloper": true,
+                "nameplates": [
+                    [
+                        "Developer",
+                        "deepskyblue"
+                    ],
+                    [
+                        "@Team PhiTogether",
+                        "lightseagreen"
+                    ]
+                ],
+                "pendants": []
+            },
+            "script": "shared.game.ptmain.gameConfig.customChartServer='ptc.realtvop.top/copyrighted';"
+        },
+        "1885": {
+            "userAdditionInfo": {
+                "isPTDeveloper": true,
+                "nameplates": [
+                    [
+                        "Developer",
+                        "deepskyblue"
+                    ],
+                    [
+                        "@Team PhiTogether",
+                        "lightseagreen"
+                    ]
+                ],
+                "pendants": []
+            },
+            "script": "shared.game.ptmain.gameConfig.customChartServer='ptc.realtvop.top/copyrighted';"
+        },
+        "10641": {
+            "userAdditionInfo": {
+                "isPTDeveloper": true,
+                "nameplates": [
+                    [
+                        "Developer",
+                        "deepskyblue"
+                    ],
+                    [
+                        "@Team PhiTogether",
+                        "lightseagreen"
+                    ]
+                ],
+                "pendants": []
+            },
+            "script": "shared.game.ptmain.gameConfig.customChartServer='ptc.realtvop.top/copyrighted';"
+        },
+        "423": {
+            "userAdditionInfo": {
+                "isPTDeveloper": false,
+                "nameplates": [
+                    [
+                        "PRA2023 冠军",
+                        "gold"
+                    ]
+                ],
+                "pendants": []
+            },
+            "script": ""
+        }
+    }
+}
